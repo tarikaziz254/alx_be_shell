@@ -1,2 +1,1 @@
-Shell permissions
-My first Readme in shell permissions task
+Giving permissions to files in shell
